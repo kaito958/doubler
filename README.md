@@ -1,12 +1,12 @@
 # doubler
 
-[![test](https://github.com/KaitoKubota/doubler/actions/workflows/test.yml/badge.svg)](https://github.com/KaitoKubota/doubler/actions/workflows/test.yml)
+[![test](https://github.com/kaito958/doubler/actions/workflows/test.yml/badge.svg)](https://github.com/kaito958/doubler/actions/workflows/test.yml)
 
 標準入力から数値を読み込み、計算して出力するコマンドです。
 
 ## インストール方法
 ```bash
-$ git clone https://github.com/KaitoKubota/doubler.git
+$ git clone https://github.com/kaito958/doubler.git
 $ cd doubler
 $ pip install .　
 ```
